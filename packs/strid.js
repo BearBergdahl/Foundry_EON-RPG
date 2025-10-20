@@ -249,6 +249,230 @@ export const datastrid = {
             }
         },
         "dolk": {
+            "ahma": {
+                "namn": "Ahma",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 30,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "begransad"}, {namn: "sargande", varde: 1}, {namn: "svag"}, {namn: "vadlig"}]
+            },
+            "dirkk": {
+                "namn": "Dirkk",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "langd": 30,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "begransad"}, {namn: "sargande", varde: 1}, {namn: "snabb"}]
+            },
+            "dolk": {
+                "namn": "Dolk",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 30,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "vadlig"}]
+            },
+            "ekjel": {
+                "namn": "Ekjel",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "langd": 30,
+                "vikt": 0.4,
+                "egenskaper": [{namn: "begransad"}, {namn: "brutal", varde: 1}, {namn: "svag"}]
+            },
+            "gripdolk": {
+                "namn": "Gripdolk",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "langd": 40,
+                "vikt": 0.6,
+                "egenskaper": [{namn: "begransad"}, {namn: "snabb"}, {namn: "vadlig"}]
+            },
+            "huggkniv": {
+                "namn": "Huggkniv",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "langd": 45,
+                "vikt": 0.7,
+                "egenskaper": [{namn: "begransad"}, {namn: "kraftfull"}]
+            },
+            "khutlukh": {
+                "namn": "Khut-lukh",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "langd": 30,
+                "vikt": 0.4,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "brutal", varde: 1}]
+            },
             "kniv": {
                 "namn": "Kniv",
                 "grupp": "dolk",
@@ -279,10 +503,202 @@ export const datastrid = {
                 },
                 "langd": 20,
                 "vikt": 0.2,
-                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}]
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "svag"}]
             },
-            "dolk": {
-                "namn": "Dolk",
+            "kraggdolk": {
+                "namn": "Kraggdolk",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
+                },
+                "langd": 50,
+                "vikt": 0.8,
+                "egenskaper": [{namn: "kraftfull"}]
+            },
+            "mochqeru": {
+                "namn": "Mochqeru",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "langd": 45,
+                "vikt": 0.7,
+                "egenskaper": [{namn: "begransad"}, {namn: "vadlig"}, {namn: "svag"}]
+            },
+            "morchan": {
+                "namn": "Morchan",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 30,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "snabb"}, {namn: "svag"}]
+            },
+            "marlspik": {
+                "namn": "Märlspik",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "langd": 30,
+                "vikt": 0.5,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "svag"}]
+            },
+            "parerdolk": {
+                "namn": "Parerdolk",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "langd": 40,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "avvapnande", varde: 1}, {namn: "begransad"}]
+            },
+            "radard": {
+                "namn": "Radard",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 45,
+                "vikt": 0.4,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "snabb"}]
+            },
+            "sahlamdolk": {
+                "namn": "Sahlamdolk",
                 "grupp": "dolk",
                 "enhand": {
                     "aktiv": true,
@@ -307,12 +723,268 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 35,
+                "vikt": 0.2,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "versatil"}, {namn: "vadlig"}, {namn: "svag"}]
+            },
+            "saraiklinga": {
+                "namn": "Saraïklinga",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
                     "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "langd": 25,
+                "vikt": 0.2,
+                "egenskaper": [{namn: "begransad"}, {namn: "snabbdragen"}, {namn: "svag"}, {namn: "vadlig"}]
+            },
+            "skalpknipare": {
+                "namn": "Skalpknipare",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "langd": 35,
+                "vikt": 0.2,
+                "egenskaper": [{namn: "begransad"}, {namn: "snabb"}, {namn: "brutal", varde: 1}, {namn: "svag"}]
+            },
+            "stendolk": {
+                "namn": "Stendolk",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
                 },
                 "langd": 30,
                 "vikt": 0.3,
-                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 2}, {namn: "vadlig"}]
-            }
+                "egenskaper": [{namn: "begransad"}, {namn: "bracklig", varde: 2}, {namn: "skarande", varde: 5}, {namn: "svag"}]
+            },
+            "stilett": {
+                "namn": "Stilett",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "kross": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "langd": 25,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "begransad"}, {namn: "precis", varde: 3}, {namn: "snabbdragen"}, {namn: "svag"}]
+            },
+            "stridsstjarna": {
+                "namn": "Stridsstjärna",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "kross": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 50,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "begransad"}, {namn: "bracklig", varde: 3}, {namn: "svag"}, {namn: "versatil"}]
+            },
+            "tokonkniv": {
+                "namn": "Tokonkniv",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 45,
+                "vikt": 0.8,
+                "egenskaper": [{namn: "begransad"}, {namn: "brutal", varde: 1}, {namn: "vadlig"}]
+            },
+            "zakhkharz": {
+                "namn": "Zakh-kharz",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "langd": 45,
+                "vikt": 0.7,
+                "egenskaper": [{namn: "begransad"}, {namn: "brutal", varde: 1}, {namn: "vadlig"}]
+            },
+            "zhinabagdh": {
+                "namn": "Zhinabagdh",
+                "grupp": "dolk",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "langd": 35,
+                "vikt": 0.3,
+                "egenskaper": [{namn: "begransad"}, {namn: "snabb"}, {namn: "vadlig"}]
+            },
         },
         "kedjevapen": {     
             "petya": {
@@ -787,24 +1459,24 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 2,
-                    "bonus": 0
+                    "bonus": 2
                 },
                 "kross": {
                     "aktiv": true,
-                    "tvarde": 1,
-                    "bonus": 0
+                    "tvarde": 0,
+                    "bonus": 2
                 },
                 "stick": {
                     "aktiv": true,
-                    "tvarde": 0,
-                    "bonus": 2
+                    "tvarde": 1,
+                    "bonus": 1
                 },
                 "langd": 100,
                 "vikt": 1.1,
                 "egenskaper": [{namn: "giftranna"}, {namn: "snabb"}]
             },
-            "kortsvärd": {
-                "namn": "Kortsvärd",
+            "alhak": {
+                "namn": "Alhak",
                 "grupp": "svard",
                 "enhand": {
                     "aktiv": true,
@@ -819,7 +1491,39 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 1,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "langd": 75,
+                "vikt": 0.8,
+                "egenskaper": [{namn: "snabb"}, {namn: "vadlig"}]
+            },
+            "binja": {
+                "namn": "Binja",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
                     "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
                 },
                 "kross": {
                     "aktiv": true,
@@ -829,14 +1533,14 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
-                    "bonus": 2
+                    "bonus": 1
                 },
-                "langd": 60,
-                "vikt": 0.9,
-                "egenskaper": [{namn: "precis", varde: 1}, {namn: "vadlig"}]
+                "langd": 105,
+                "vikt": 0.7,
+                "egenskaper": [{namn: "bojlig"}, {namn: "skarande", varde: 5}, {namn: "vadlig"}]
             },
-            "kroksabel": {
-                "namn": "Kroksabel",
+            "calanasvard": {
+                "namn": "Calanasvärd",
                 "grupp": "svard",
                 "enhand": {
                     "aktiv": true,
@@ -850,7 +1554,39 @@ export const datastrid = {
                 },
                 "hugg": {
                     "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
                     "tvarde": 2,
+                    "bonus": 3
+                },
+                "langd": 95,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "precis", varde: 1}]
+            },
+            "carwelan": {
+                "namn": "Carwelan",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 3,
                     "bonus": 3
                 },
                 "kross": {
@@ -861,11 +1597,683 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 110,
+                "vikt": 1.3,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "snabb"}]
+            },
+            "celancaldspada": {
+                "namn": "Celancald/Spada",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
                     "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 95,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "vadlig"}]
+            },
+            "cinneach": {
+                "namn": "Cinneach",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "langd": 110,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "vadlig"}]
+            },
+            "cirecald": {
+                "namn": "Cirecald",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 6,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 6
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 170,
+                "vikt": 2.3,
+                "egenskaper": [{namn: "utmanovrerande"}, {namn: "rackvidd", varde: 1}]
+            },
+            "da": {
+                "namn": "Da",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "langd": 95,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "dubbelfattning"}, {namn: "splittrande", varde: 1}]
+            },
+            "djapoor": {
+                "namn": "Djapoor",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 5
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 100,
+                "vikt": 1.1,
+                "egenskaper": [{namn: "vadlig"}]
+            },
+            "dwo": {
+                "namn": "Dwo",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 95,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "dubbelfattning"}, {namn: "vadlig"}]
+            },
+            "faktkapp": {
+                "namn": "Fäktkäpp",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "stick": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "langd": 100,
+                "vikt": 0.9,
+                "egenskaper": [{namn: "bracklig", varde: 2}, {namn: "snabb"}]
+            },
+            "gurdersvard": {
+                "namn": "Gûrdersvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
+                },
+                "langd": 75,
+                "vikt": 1.1,
+                "egenskaper": [{namn: "vadlig"}]
+            },
+            "hederssvard": {
+                "namn": "Hederssvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 4,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "langd": 130,
+                "vikt": 1.5,
+                "egenskaper": [{namn: "dubbelfattning"}, {namn: "mattande", varde: 1}]
+            },
+            "huggare": {
+                "namn": "Huggare",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "langd": 65,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "brutal", varde: 1}]
+            },
+            "kaskara": {
+                "namn": "Kaskara",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 100,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "mattande", varde: 1}]
+            },
+            "khirin": {
+                "namn": "Khirin",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 6,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 4,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "langd": 155,
+                "vikt": 2.5,
+                "egenskaper": [{namn: "kraftfull"}, {namn: "otymplig"}, {namn: "splittrande", varde: 1}, {namn: "rackvidd", varde: 1}]
+            },
+            "kortsvardglada": {
+                "namn": "Kortsvärd/Glada",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 60,
+                "vikt": 0.9,
+                "egenskaper": [{namn: "precis", varde: 1}, {namn: "vadlig"}]
+            },
+            "kraggsvard": {
+                "namn": "Kraggsvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 8,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 4,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 5,
+                    "bonus": 5
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 190,
+                "vikt": 4.8,
+                "egenskaper": [{namn: "kraftfull"}, {namn: "rackvidd", varde: 1}]
+            },
+            "krelllukh": {
+                "namn": "Krell-lukh",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 80,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "precis", varde: 1}, {namn: "vadlig"}]
+            },
+            "kroksabelsabla": {
+                "namn": "Kroksabel/Sabla",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 5
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
                 },
                 "langd": 100,
                 "vikt": 1.1,
                 "egenskaper": [{namn: "mattande", varde: 1}]
+            },
+            "lelldorin": {
+                "namn": "Lelldorin",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "langd": 100,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "kontrande"}, {namn: "mattande", varde: 1}]
+            },
+            "leng": {
+                "namn": "Leng",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "langd": 70,
+                "vikt": 0.9,
+                "egenskaper": [{namn: "kraftfull"}, {namn: "sargande", varde: 1}]
+            },
+            "lyfali": {
+                "namn": "Lyfali",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 4,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 6
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 180,
+                "vikt": 1.6,
+                "egenskaper": [{namn: "rackvidd", varde: 1}, {namn: "utmanovrerande"}]
+            },
+            "langsvard": {
+                "namn": "Långsvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "langd": 110,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "dubbelfattning"}, {namn: "mattande", varde: 1}]
+            },
+            "maercald": {
+                "namn": "Maercald",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 70,
+                "vikt": 0.9,
+                "egenskaper": [{namn: "precis", varde: 1}, {namn: "vadlig"}]
             },
             "melorsvard": {
                 "namn": "Melorsvärd",
@@ -883,7 +2291,7 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 3,
-                    "bonus": 1
+                    "bonus": 4
                 },
                 "kross": {
                     "aktiv": true,
@@ -893,11 +2301,75 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
-                    "bonus": 2
+                    "bonus": 3
                 },
                 "langd": 140,
                 "vikt": 1.9,
                 "egenskaper": [{namn: "rackvidd", varde: 1}, {namn: "utmanovrerande"}]
+            },
+            "mirapata": {
+                "namn": "Mirapata",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "langd": 125,
+                "vikt": 1.9,
+                "egenskaper": [{namn: "rackvidd", varde: 1}, {namn: "saker"}]
+            },
+            "muhadinsabel": {
+                "namn": "Mûhadinsabel",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 100,
+                "vikt": 1.1,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "vadlig"}]
             },
             "niamh": {
                 "namn": "Niamh",
@@ -915,6 +2387,38 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 1,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 70,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "snabb"}, {namn: "vadlig"}]
+            },
+            "niamhkav": {
+                "namn": "Niamh Kav",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
                     "bonus": 3
                 },
                 "kross": {
@@ -925,14 +2429,206 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
+                    "bonus": 1
+                },
+                "langd": 100,
+                "vikt": 1.1,
+                "egenskaper": [{namn: "dubbelfattning"}, {namn: "mattande", varde: 1}, {namn: "snabb"}]
+            },
+            "obezhan": {
+                "namn": "Obezhan",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 5,
                     "bonus": 0
                 },
-                "langd": 70,
-                "vikt": 1,
-                "egenskaper": [{namn: "snabb"}, {namn: "vadlig"}]
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 5
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "langd": 150,
+                "vikt": 1.6,
+                "egenskaper": [{namn: "rackvidd", varde: 1}, {namn: "vadlig"}]
             },
-            "slagsvard": {
-                "namn": "Slagsvärd",
+            "pansarstickare": {
+                "namn": "Pansarstickare",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 4,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "langd": 120,
+                "vikt": 2.1,
+                "egenskaper": [{namn: "dubbelfattning"}, {namn: "precis", varde: 1}]
+            },
+            "pharlukh": {
+                "namn": "Phar-lukh",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 50,
+                "vikt": 0.7,
+                "egenskaper": [{namn: "avvapnande", varde: 1}]
+            },
+            "qumo": {
+                "namn": "Qumo",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
+                },
+                "langd": 70,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "precis", varde: 1}, {namn: "sargande", varde: 1}]
+            },
+            "qumoan": {
+                "namn": "Qumo-an",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "langd": 105,
+                "vikt": 1.8,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "sargande", varde: 1}]
+            },
+            "raunklinga": {
+                "namn": "Raunklinga",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 5
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 115,
+                "vikt": 1.3,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "dubbelfattning"}]
+            },
+            "slagsvardcirzacald": {
+                "namn": "Slagsvärd/Cirzacald",
                 "grupp": "svard",
                 "enhand": {
                     "aktiv": true,
@@ -947,7 +2643,7 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 3,
-                    "bonus": 0
+                    "bonus": 3
                 },
                 "kross": {
                     "aktiv": true,
@@ -957,7 +2653,7 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
-                    "bonus": 2
+                    "bonus": 3
                 },
                 "langd": 120,
                 "vikt": 1.7,
@@ -979,17 +2675,17 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 4,
-                    "bonus": 0
+                    "bonus": 4
                 },
                 "kross": {
                     "aktiv": true,
                     "tvarde": 1,
-                    "bonus": 2
+                    "bonus": 3
                 },
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
-                    "bonus": 2
+                    "bonus": 3
                 },
                 "langd": 150,
                 "vikt": 2.8,
@@ -1011,7 +2707,7 @@ export const datastrid = {
                 "hugg": {
                     "aktiv": true,
                     "tvarde": 2,
-                    "bonus": 1
+                    "bonus": 3
                 },
                 "kross": {
                     "aktiv": true,
@@ -1021,12 +2717,332 @@ export const datastrid = {
                 "stick": {
                     "aktiv": true,
                     "tvarde": 1,
-                    "bonus": 2
+                    "bonus": 3
                 },
                 "langd": 95,
                 "vikt": 1.2,
                 "egenskaper": [{namn: "mattande", varde: 1}, {namn: "precis", varde: 1}]
-            }
+            },
+            "sagtandatsvard": {
+                "namn": "Sågtandat svärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "langd": 85,
+                "vikt": 1.7,
+                "egenskaper": [{namn: "skarande", varde: 5}, {namn: "sargande", varde: 1}]
+            },
+            "thalaskiskthuggsvard": {
+                "namn": "Thalaskiskt huggsvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 5
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "langd": 110,
+                "vikt": 1.6,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "splittrande", varde: 1}]
+            },
+            "thalaskisktsticksvard": {
+                "namn": "Thalaskiskt sticksvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "langd": 110,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "precis", varde: 1}]
+            },
+            "thalasvard": {
+                "namn": "Thalasvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "langd": 80,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "mattande", varde: 1}]
+            },
+            "tirakhuggare": {
+                "namn": "Tirakhuggare",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "langd": 100,
+                "vikt": 1.4,
+                "egenskaper": [{namn: "otymplig"}, {namn: "sargande", varde: 1}, {namn: "vadlig"}]
+            },
+            "tiraksabel": {
+                "namn": "Tiraksabel",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 2
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "langd": 85,
+                "vikt": 1.5,
+                "egenskaper": [{namn: "kraftfull"}, {namn: "sargande", varde: 1}]
+            },
+            "tokonsvard": {
+                "namn": "Tokonsvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "langd": 95,
+                "vikt": 1.4,
+                "egenskaper": [{namn: "splittrande", varde: 1}, {namn: "vadlig"}]
+            },
+            "traningssvard": {
+                "namn": "Träningssvärd",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": false,
+                    "tvarde": 0,
+                    "bonus": 0
+                },
+                "langd": 95,
+                "vikt": 1.2,
+                "egenskaper": [{namn: "bracklig", varde: 3}, {namn: "mattande", varde: 1}]
+            },
+            "waikara": {
+                "namn": "Waikara",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 3
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "langd": 70,
+                "vikt": 1.0,
+                "egenskaper": [{namn: "precis", varde: 1}, {namn: "snabb"}]
+            },
+            "varjarapera": {
+                "namn": "Värja/Rapera",
+                "grupp": "svard",
+                "enhand": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "tvahand": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "hugg": {
+                    "aktiv": true,
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "kross": {
+                    "aktiv": true,
+                    "tvarde": 0,
+                    "bonus": 1
+                },
+                "stick": {
+                    "aktiv": true,
+                    "tvarde": 2,
+                    "bonus": 4
+                },
+                "langd": 100,
+                "vikt": 1.1,
+                "egenskaper": [{namn: "mattande", varde: 1}, {namn: "snabb"}]
+            },
         },
         "yxa": {
             "bredyxa": {
