@@ -75,7 +75,8 @@ export const PreloadHandlebarsTemplates = async function () {
 
 export async function Setup() {
     try {      
-		const harStrid = false;
+		// Check if Strid module is enabled in settings
+		const harStrid = game.settings.get("eon-rpg", "bookCombat") === "strid";
 
 		let importData = {};
 		
