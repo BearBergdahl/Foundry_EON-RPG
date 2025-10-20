@@ -69,10 +69,10 @@ export const systemSettings = function() {
 		hint: "Skall systemet använda sig av de regler och tillägg som kom i boken Strid?",
 		scope: "world",
 		config: false,
-		default: "Nej",
+		default: "grund",
 		type: String,
 		choices: {
-			//"strid": "Ja",
+			"strid": "Ja",
 			"grund": "Nej"
 		}
 	});
