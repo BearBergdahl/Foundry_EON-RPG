@@ -171,16 +171,16 @@ If tests fail, document:
 ## Success Criteria
 
 Integration is successful if:
-- ✅ All tests pass
-- ✅ No console errors during normal operation
-- ✅ System works with both "grund" and "strid" modes
-- ✅ Toggle between modes works reliably
-- ✅ Documentation is accurate
-- ✅ No breaking changes to existing functionality
+- All tests pass
+- No console errors during normal operation
+- System works with both "grund" and "strid" modes
+- Toggle between modes works reliably
+- Documentation is accurate
+- No breaking changes to existing functionality
 
 ---
 
-**Testing Status**: 🟡 Not yet tested
+**Testing Status**: Not yet tested
 
 **Tester Name**: _________________
 
@@ -188,4 +188,4 @@ Integration is successful if:
 
 **Foundry Version**: _________________
 
-**Overall Result**: ⬜ Pass / ⬜ Fail / ⬜ Partial
+**Overall Result**: Pass / Fail / Partial
