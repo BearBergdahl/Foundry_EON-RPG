@@ -1,6 +1,6 @@
 {
     "id": "eon-rpg",
-    "title": "Eon RPG",
+    "title": "Eon V RPG",
     "version": "4.0.2",
     "compatibility": {
         "minimum": "13",
@@ -10,6 +10,11 @@
     "authors": [{
         "name": "Johan Fält",
         "discord": "johanfk#0054",
+        "flags": {}
+    },
+    {
+        "name": "Björn Bergdahl",
+        "discord": ".molnet",
         "flags": {}
     }],
     "esmodules": [
