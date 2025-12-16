@@ -303,9 +303,8 @@
         "gridDistance": 2,
         "gridUnits": "m"
     },  
-    "url": "https://github.com/JohanFalt/Foundry_EON-RPG",
-    "manifest": "https://github.com/JohanFalt/Foundry_EON-RPG/releases/download/v4.0.4/system.json",  
-    "download": "https://github.com/JohanFalt/Foundry_EON-RPG/releases/download/v4.0.4/v4.0.4.zip",
-    "bugs": "https://github.com/JohanFalt/Foundry_EON-RPG/issues",
+    "url": "https://github.com/BearBergdahl/Foundry_EON-RPG",
+    "download": "https://github.com/BearBergdahl/Foundry_EON-RPG/releases/download/v0.1.0/Foundry_EON-RPG-v0.1.0.zip",
+    "manifest": "https://raw.githubusercontent.com/BearBergdahl/Foundry_EON-RPG/v0.1.0/system.json"
     "license": "LICENSE.txt"
 }
