@@ -21,6 +21,16 @@ Delar av detta material är tillhör Helmgast AB som äger copyright och tradema
 
 Detta material är inte en officiell Eon produkt.
 
+## Features
+
+### Strid Module Integration
+This system now includes integrated support for the "Strid" supplement book. Game masters can toggle between basic combat rules and extended Strid rules through the game settings.
+
+- **Quick Start**: See [STRID_QUICK_START.md](STRID_QUICK_START.md) for user instructions
+- **Technical Details**: See [STRID_INTEGRATION.md](STRID_INTEGRATION.md) for implementation details
+- **Change Summary**: See [INTEGRATION_SUMMARY.md](INTEGRATION_SUMMARY.md) for code changes
+
+Enable Strid in: *Game Settings → System Settings → Bokinställningar → Strid*
 
 ## Icons
 https://fontawesome.com/

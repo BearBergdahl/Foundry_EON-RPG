@@ -11,6 +11,11 @@
         "name": "Johan Fält",
         "discord": "johanfk#0054",
         "flags": {}
+    },
+    {
+        "name": "Björn Bergdahl",
+        "discord": ".molnet",
+        "flags": {}
     }],
     "esmodules": [
         "module/eon-rpg.js"
